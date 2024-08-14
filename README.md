@@ -35,17 +35,17 @@ Fast React Pizza is a web application that allows users to order their favorite 
 
 Here are some screenshots of the Fast React Pizza application:
 
-![Login Page](screenshots/login.png)
 *Login Page*
+![Login Page](screenshots/login.png)
 
+*Pizza List*
 ![Pizza List](screenshots/pizzaList.png)
-*Pizza Selection*
 
-![Order Summary](screenshots/orderSummary.png)
 *Order Summary*
+![Order Summary](screenshots/orderSummary.png)
 
-![bill](screenshots/bill.png)
 *bill*
+![bill](screenshots/bill.png)
 
 ## Folder Structure
 
